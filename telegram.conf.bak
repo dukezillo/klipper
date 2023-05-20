@@ -1,7 +1,7 @@
 [bot]
 server: localhost
-chat_id: 247654201
-bot_token: 1175726128:AAENVy0S63vGtwO6LIKIsnkwNDiI8qdNFFY
+chat_id: 
+bot_token: 
 log_path: /home/pi/klipper_logs
 
 [camera]
